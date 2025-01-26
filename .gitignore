@@ -1,1 +1,62 @@
+<<<<<<< HEAD
  
+=======
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+.env
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+dist/
+build/
+*.log
+*.pot
+*.pyc
+
+# Node.js / Next.js
+node_modules/
+.next/
+out/
+dist/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Environment variables
+.env.local
+.env.development
+.env.production
+.env.test
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# macOS
+.DS_Store
+
+# Local development
+*.local
+
+# Build and deployment
+build/
+.serverless/
+.next/
+.cache/
+>>>>>>> ac3664cd2173e29f5dfbf69ce68dd1a937f74142
