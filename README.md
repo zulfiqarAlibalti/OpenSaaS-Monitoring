@@ -1,6 +1,4 @@
-<<<<<<< HEAD
- 
-=======
+
 # OpenSaaS-Monitoring
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -36,4 +34,3 @@ An open-source SaaS platform for social media monitoring and analytics, inspired
    ```bash
    git clone https://github.com/zulfiqarAlibalti/OpenSaaS-Monitoring.git
    cd OpenSaaS-Monitoring
->>>>>>> ac3664cd2173e29f5dfbf69ce68dd1a937f74142
